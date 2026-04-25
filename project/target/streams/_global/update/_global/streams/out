@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/H:/Scale/CLI_log_analyzer/project/"), "cli_log_analyzer-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating cli_log_analyzer-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved cli_log_analyzer-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of cli_log_analyzer-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of cli_log_analyzer-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/H:/Scale/CLI_log_analyzer/project/"), "cli_log_analyzer-build")[0m
