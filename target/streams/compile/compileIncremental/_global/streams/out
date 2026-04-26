@@ -22,9 +22,9 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to H:\Scale\CLI_log_analyzer\target\scala-2.13\classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 31e4fb for Scala compiler version 2.13.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 9e41bbf for Scala compiler version 2.13.12[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	H:\Scale\CLI_log_analyzer\target\scala-2.13\classes;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\io\circe\circe-core_2.13\0.14.6\circe-core_2.13-0.14.6.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\io\circe\circe-generic_2.13\0.14.6\circe-generic_2.13-0.14.6.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\io\circe\circe-numbers_2.13\0.14.6\circe-numbers_2.13-0.14.6.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\typelevel\cats-core_2.13\2.9.0\cats-core_2.13-2.9.0.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\com\chuusai\shapeless_2.13\2.3.10\shapeless_2.13-2.3.10.jar;C:\Users\admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\typelevel\cats-kernel_2.13\2.9.0\cats-kernel_2.13-2.9.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.3244048 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.7569754 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
