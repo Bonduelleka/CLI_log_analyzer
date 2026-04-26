@@ -1,7 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0mH:\Scale\CLI_log_analyzer\src\main\scala\Analyzer.scala:31:9: not found: value Try[0m
-[0m[[0m[31merror[0m] [0m[0m        Try {[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mH:\Scale\CLI_log_analyzer\src\main\scala\Analyzer.scala:32:26: not found: value Source[0m
-[0m[[0m[31merror[0m] [0m[0m            val source = Source.fromFile(fileName)[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mH:\Scale\CLI_log_analyzer\src\main\scala\Analyzer.scala:130:7: diverging implicit expansion for type io.circe.Encoder[scala.collection.immutable.Map[String,Any]][0m
+[0m[[0m[31merror[0m] [0m[0mstarting with lazy value currencyEncoder in object Encoder[0m
+[0m[[0m[31merror[0m] [0m[0m    ).asJson[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

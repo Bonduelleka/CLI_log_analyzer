@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(AnalyzerTest, org.scalatest.tools.Framework$$anon$1@30cb83b1, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAnalyzerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mparseLine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should parse valid log line correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mparseLine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return None when status is not a number[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtopIpAddresses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return top N IPs by request count[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32maverageResponseSize[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate correct average[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32maverageResponseSize[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 0.0 for empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32merrorCount[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count only 4xx and 5xx statuses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 283 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnalyzerTest[0m
